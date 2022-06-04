@@ -10,7 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-**Here are some ideas to get you started:**
+
 
 🙋‍♀️ 此组织专注于零售场景下商品识别领域，主要基于图像识别、目标检测、目标跟踪等计算机视觉技术进行相关业务拓展。
 
