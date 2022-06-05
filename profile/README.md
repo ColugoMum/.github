@@ -25,4 +25,6 @@
  4. 即将提供图像识别教程，方便开发者进行训练调优；
  5. 欢迎感兴趣的开发者加入[RP2K](https://www.pinlandata.com/rp2k_dataset)的打榜活动！
  
- 
+ :grinning: 特别感谢：
+ 1. [PaddleClas](https://github.com/PaddlePaddle/PaddleClas): 提供相关技术支持；
+ 2. [RP2K](https://www.pinlandata.com/rp2k_dataset): 提供数据支持；
