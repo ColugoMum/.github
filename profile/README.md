@@ -25,6 +25,12 @@
  4. 即将提供图像识别教程，方便开发者进行训练调优；
  5. 欢迎感兴趣的开发者加入[RP2K](https://www.pinlandata.com/rp2k_dataset)的打榜活动！
  
+ :open_hands: 招募
+ 1. 欢迎开发者加入零售商品识别数据集的收集工作；
+ 2. 欢迎开发者加入基于RP2K的打榜活动。  
+ 
+ 如果您对本组织后续规划以及上述招募活动感兴趣，欢迎通过邮件和我联系！
+ 
  :grinning: 特别感谢：
  1. [PaddleClas](https://github.com/PaddlePaddle/PaddleClas): 提供相关技术支持；
  2. [RP2K](https://www.pinlandata.com/rp2k_dataset): 提供数据支持；
