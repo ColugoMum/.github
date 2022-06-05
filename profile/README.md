@@ -10,9 +10,12 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+</div>  
+<div align="center">
+<img src="https://github.com/ColugoMum/Smart_container/blob/master/image/logo2.svg" width = "720" height = "320"/>
+</div>  
 
-
-🙋‍♀️ 专注于零售场景下的商品识别领域，包括不限于：商品识别、货架陈列摆放、大数据可视化分析等，主要基于图像识别、目标检测、目标跟踪等计算机视觉以及数据分析等技术进行相关业务的拓展。
+🙋‍♀️ 本组织专注于零售场景下的商品识别领域，包括不限于：商品识别、货架陈列摆放、大数据可视化分析等，主要基于图像识别、目标检测、目标跟踪等计算机视觉以及数据分析等技术进行相关业务的拓展。
 
 🌈 如果你对零售场景感兴趣，或者你对上述的任何一个技术场景感兴趣，欢迎加入我们！ 
  
