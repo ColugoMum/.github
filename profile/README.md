@@ -25,8 +25,9 @@
  1. 因项目不断扩大，将原[Smart_container](https://github.com/thomas-yanxin/Smart_container)项目架构拆分为组织架构，并计划拓展边界；
  2. 提供基于PPLCNET骨干网络的端侧级[RP2K](https://www.pinlandata.com/rp2k_dataset)预训练模型，精度达96.54%；
  3. 提供图像识别教程，并提供[在线实训环境](https://aistudio.baidu.com/aistudio/projectdetail/3460304)方便开发者进行训练调优。此教程也已收录于[飞桨产业实践范例库](https://aistudio.baidu.com/aistudio/topic/1000)；
- 4. 已经提供基于PPLCNETV2的端侧级模型，即将提供基于PPHGNET的服务端模型，以及相关推理模型。敬请期待；
- 5. 欢迎感兴趣的开发者加入[RP2K](https://www.pinlandata.com/rp2k_dataset)的打榜活动！
+ 4. 汇总SKU级别的商品图像数据集，并提供相关链接；
+ 5. 已经提供基于PPLCNETV2的端侧级模型，即将提供基于PPHGNET的服务端模型，以及相关推理模型。敬请期待；
+ 6. 欢迎感兴趣的开发者加入[RP2K](https://www.pinlandata.com/rp2k_dataset)的打榜活动！
  
  :open_hands: 招募
  1. 欢迎开发者加入零售商品识别数据集的收集工作，我们想要开源出在业内具有影响力的零售商品识别数据集；
