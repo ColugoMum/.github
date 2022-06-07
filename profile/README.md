@@ -31,7 +31,7 @@
  
  :open_hands: 招募
  1. 欢迎开发者加入零售商品识别数据集的收集工作，我们想要开源出在业内具有影响力的零售商品识别数据集，详情见[Dataset](https://github.com/ColugoMum/Dataset)；
- 2. 欢迎开发者加入基于RP2K的打榜活动，详情见[Exprements](https://github.com/ColugoMum/Exprements)。  
+ 2. 欢迎开发者加入基于RP2K的打榜活动，详情见[Exprements](https://github.com/ColugoMum/Exprements/issues/1#issue-1262919256)。  
  
  如果您对本组织后续规划以及上述招募活动感兴趣，欢迎通过邮件和我联系！
  
