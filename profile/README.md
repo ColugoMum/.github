@@ -36,5 +36,7 @@
  如果您对本组织后续规划以及上述招募活动感兴趣，欢迎通过邮件和我联系！
  
  :grinning: 特别感谢：
- 1. [PaddleClas](https://github.com/PaddlePaddle/PaddleClas): 提供相关技术支持；
- 2. [RP2K](https://www.pinlandata.com/rp2k_dataset): 提供数据支持；
+ 1. [PaddleClas](https://github.com/PaddlePaddle/PaddleClas) 提供相关技术支持；
+ 2. [RP2K](https://www.pinlandata.com/rp2k_dataset) 提供数据支持；
+ 3. [OpenI启智](https://openi.org.cn/)和[飞桨AIStudio](https://aistudio.baidu.com/aistudio/index)提供基础算力。
+ 
