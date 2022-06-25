@@ -12,7 +12,7 @@
 -->
 </div>  
 <div align="center">
-<img src="https://github.com/ColugoMum/Smart_container/blob/master/image/logo2.svg" width = "720" height = "320"/>
+<img src="https://github.com/ColugoMum/Smart_container/blob/master/image/logo.svg" width = "720" height = "320"/>
 </div>  
 
 🙋‍♀️ 本组织专注于零售场景下的商品识别领域，包括不限于：商品识别、货架陈列摆放、大数据可视化分析等，主要基于图像识别、目标检测、目标跟踪等计算机视觉以及数据分析等技术进行相关业务的拓展。
