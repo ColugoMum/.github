@@ -40,7 +40,7 @@
  ## :grinning: 特别感谢：
  1. [PaddleClas](https://github.com/PaddlePaddle/PaddleClas) 提供相关技术支持；
  2. [RP2K](https://www.pinlandata.com/rp2k_dataset) 提供数据支持；
- 3. [OpenI启智](https://openi.org.cn/)和[飞桨AIStudio](https://aistudio.baidu.com/aistudio/index)提供基础算力。
+ 3. [OpenI启智](https://openi.org.cn/)和[飞桨AIStudio](https://aistudio.baidu.com/aistudio/index)提供协同环境和基础算力。
  4. [Datawhale](https://github.com/datawhalechina)提供对外宣传渠道。
  
 ## :wave: 对外宣发
