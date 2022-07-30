@@ -41,7 +41,7 @@
  1. [飞桨PaddleClas](https://github.com/PaddlePaddle/PaddleClas) 提供相关技术支持；
  2. [品览RP2K](https://www.pinlandata.com/rp2k_dataset) 提供数据支持；
  3. [OpenI启智](https://openi.org.cn/)和[飞桨AIStudio](https://aistudio.baidu.com/aistudio/index)提供协同环境和基础算力。
- 4. [Datawhale](https://github.com/datawhalechina)、[OpenI启智](https://openi.org.cn/)、[飞桨AIStudio](https://aistudio.baidu.com/aistudio/index)提供对外宣传渠道。
+ 4. [Datawhale](https://github.com/datawhalechina)、[OpenI启智](https://openi.org.cn/)提供对外宣传渠道。
  
 ## :wave: 对外宣发
 1. [【OpenI启智社区】OpenI开源项目推荐-ColugoMum | 基于国产深度学习框架PaddlePadddle开源的零售行业解决方案](https://mp.weixin.qq.com/s/mgNcoWAICBAqkPCqqBN8Iw)
