@@ -19,7 +19,9 @@
 
 🌈 如果你对零售场景感兴趣，或者你对上述的任何一个技术场景感兴趣，欢迎加入我们！ 
  
-🧙 对于组织或组织任何项目感兴趣，欢迎您通过邮件和我们沟通！  
+🧙 对于组织或组织任何项目感兴趣，欢迎您通过邮件和我们沟通！ 
+
+**注**：项目会第一时间在[OpenI启智社区](https://git.openi.org.cn/ColugoMum/Smart_container)首发，其余平台保持同步，欢迎关注。
 
 ## 🍿 近期更新：
  1. 因项目不断扩大，将原[Smart_container](https://github.com/thomas-yanxin/Smart_container)项目架构拆分为[ColugoMum组织架构](https://github.com/ColugoMum)，并计划拓展边界；
